@@ -1,0 +1,7 @@
+Learn Git branching.
+Practice Git merging.
+Learn GitHub collaboration.
+
+Practice git diff.
+Practice git blame.
+Complete GitHub collaboration.
